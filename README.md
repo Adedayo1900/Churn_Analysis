@@ -1,11 +1,15 @@
 # Churn_Analysis
 This Project is a Churn Analysis for United Bank For Europe.
 
+![WhatsApp Image 2023-10-25 at 02 41 18](https://github.com/Adedayo1900/Churn_Analysis/assets/130705411/3bf5c80b-adb2-4c1b-a4cd-c8ef6e57ede4)
+
 # Overview
 United Bank for Europe (UBE) is a top bank with presence in Europe. The organisation values customer retention and seeks to establish reasons for loss of customers. The banking industry is very competitive and it is generaly more expensive to to find new customers than to keep existing customers. High churn rate means losing customes and thereby translate to losing revenue. The bank would like to identify core reasons why already existing customers stop doing business with them.
 
 # Business Question
 Identify key reason for churn rate.
+
+![WhatsApp Image 2023-10-25 at 02 41 24](https://github.com/Adedayo1900/Churn_Analysis/assets/130705411/2227715a-2b93-429b-9d7b-9e58dba4ff86)
 
 # Available Data
 The Data given consist of UBE's customer base, age, location and whether they have exited the bank or not.
