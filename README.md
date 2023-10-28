@@ -280,4 +280,8 @@ Also, for a bank who hasnt quite got its complaint resolution well, customers wi
 
 The bank also needs to focus on its older adult customers between the ages of 40-69 as they have been shown to exit the bank than any other age group. The bank should try to introduce more valuable products targeted at this age group to increase their loyalty to the brand.
 
-Lastly there is a need to focus on the branches in germany as customers in germany are two times more likely to exit the bank than those in other locations as revealed by the analysis. 
+Lastly there is a need to focus on the branches in germany as customers in germany are two times more likely to exit the bank than those in other locations as revealed by the analysis.
+
+# Visualization
+Visualization for this project can be viewd in Power BI on this link https://github.com/Adedayo1900/Churn_Analysis/blob/main/Churn%20Analysis%20for%20UBE.pbix
+
